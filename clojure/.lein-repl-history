@@ -1,0 +1,9 @@
+exit
+args[]
+(def args = [])
+(def args [])
+args
+(args[0] = "hi")
+(def args[0] = "hi")
+(def args[0] "hi")
+exit

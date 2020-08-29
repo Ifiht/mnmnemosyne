@@ -1,2 +1,2 @@
 # mnmnemosyne
-File explorer &amp; organizer, the way it should be done..
+File explorer &amp; organizer, the way it should be done..  :minidisc:
